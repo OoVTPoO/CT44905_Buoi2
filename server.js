@@ -1,6 +1,7 @@
 const app = require("./app");
 const config = require ("./app/config");
-const MongoDB = require ("./app/utils/mongodb.util"); 
+const MongoDB = require ("./app/utils/mongodb.util");
+// const {MongoDB}= require ("mongodb"); 
 
 //start server 
 // const PORT = config.app.port;
